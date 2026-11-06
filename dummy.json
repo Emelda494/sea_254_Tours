@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Lion",
+        "img": "images/lionblog.jpg",
+        "text": "Maasai Mara's lions are Kenya's pride. Watch them hunt at sunrise or nap under acacia trees,an unforgettable moment in the heart of Africa."
+
+    },
+    {
+        "title": "Leopard",
+        "img": "images/leopardblog.jpg",
+        "text": "In Kenya’s Samburu or Laikipia, spot leopards draped in trees. Their stealth and beauty make every rare sighting a true safari treasure."
+
+    },
+    {
+        "title": "African Elephant",
+        "img": "images/elephantblog.jpg",
+        "text": "Amboseli elephants roam with Mt. Kilimanjaro in view. Witness Kenya’s largest herds walking proudly through golden grasslands and swamps."
+
+    },
+    {
+        "title": "Rhinocerous",
+        "img": "images/rhinocerous.jpg",
+        "text": "Kenya leads in rhino conservation. Meet black and white rhinos in Ol Pejeta or Nairobi Park, where ancient wildlife meets modern protection."
+
+    },
+    {
+        "title": "Cape Buffalo",
+        "img": "images/buffalloblog.jpg",
+        "text": "Kenya’s Cape buffaloes roam Tsavo and Meru in massive herds. Strong, alert, and untamed,they add power to your safari adventure."
+
+    }
+]
+    
